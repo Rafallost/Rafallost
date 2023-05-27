@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafał Zabłotni</h1>
-<h3 align="center">Im student from Kraków</h3>
+<h3 align="center">I'm a student from Kraków</h3>
 
 - 🌱 I’m currently learning **Assembly, Bash, python**
 - 📫 You can reach me **rafalzab20@gmail.com**
