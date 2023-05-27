@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 <h1 align="center">Hi 👋, I'm Rafał Zabłotni</h1>
 <h3 align="center">Im student from Kraków</h3>
