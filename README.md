@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafał Zabłotni</h1>
 <h3 align="center">Im student from Kraków</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafallost&label=Profile%20views&color=0e75b6&style=flat" alt="rafallost" /> </p>
-
 - 🌱 I’m currently learning **Assembly, Bash, python**
+- 📫 You can reach me **rafalzab20@gmail.com**
 
-- 📫 How to reach me **rafalzab20@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
