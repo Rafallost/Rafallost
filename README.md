@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafał Zabłotni</h1>
 <h3 align="center">I'm a student from Kraków</h3>
 
-- 🌱 I’m currently learning **Assembly, Bash, python**
+- 🌱 I’m currently learning **C#**
 - 📫 You can reach me **rafalzab20@gmail.com**
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafallost&show_icons=true&locale=en&layout=compact" alt="rafallost" /></p>
 <p align="left">
