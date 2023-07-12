@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#,Python**
 - 📫 You can reach me **rafalzab20@gmail.com**
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafallost&show_icons=true&locale=en&layout=compact" alt="rafallost" /></p>
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rafallost&show_icons=true&locale=en&layout=compact" alt="rafallost" /></p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
